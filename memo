@@ -1,5 +1,8 @@
 Inside that directory, you can run several commands:
 
+  npx create-react-app jsx
+    Create new react template
+
   npm start
     Starts the development server.
 
